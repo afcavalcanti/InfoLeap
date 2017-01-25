@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileName>ValuesData</fileName>
+  <serializedTypes>
+    <string>UnityEngine.Vector3, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</string>
+  </serializedTypes>
+  <serializedData>
+    <DataContainer>
+      <key>Posição (mm)</key>
+      <value xsi:type="Vector3">
+        <x>-39.39543</x>
+        <y>135.1025</y>
+        <z>83.00874</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Velocidade (mm/s)</key>
+      <value xsi:type="Vector3">
+        <x>317.4503</x>
+        <y>-899.4065</y>
+        <z>797.030334</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Ângulo (rad)</key>
+      <value xsi:type="Vector3">
+        <x>0.3792591</x>
+        <y>-0.9217703</y>
+        <z>0.0806357861</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Direção (Pitch, Yaw, Roll)</key>
+      <value xsi:type="Vector3">
+        <x>0.5603934</x>
+        <y>1.04861033</y>
+        <z>1.91732967</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Força</key>
+      <value xsi:type="xsd:float">0.3168613</value>
+    </DataContainer>
+  </serializedData>
+</SaveData>
