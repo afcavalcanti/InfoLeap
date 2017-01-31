@@ -3,43 +3,52 @@
   <fileName>ValuesData</fileName>
   <serializedTypes>
     <string>UnityEngine.Vector3, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</string>
+    <string>UnityEngine.Vector2, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</string>
+    <string>System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</string>
   </serializedTypes>
   <serializedData>
     <DataContainer>
       <key>Posição (mm)</key>
       <value xsi:type="Vector3">
-        <x>-39.39543</x>
-        <y>135.1025</y>
-        <z>83.00874</z>
+        <x>-160.422058</x>
+        <y>228.064575</y>
+        <z>177.480408</z>
       </value>
     </DataContainer>
     <DataContainer>
       <key>Velocidade (mm/s)</key>
       <value xsi:type="Vector3">
-        <x>317.4503</x>
-        <y>-899.4065</y>
-        <z>797.030334</z>
+        <x>17.0829582</x>
+        <y>-18.608799</y>
+        <z>-15.6959248</z>
       </value>
     </DataContainer>
     <DataContainer>
       <key>Ângulo (rad)</key>
       <value xsi:type="Vector3">
-        <x>0.3792591</x>
-        <y>-0.9217703</y>
-        <z>0.0806357861</z>
+        <x>0.241278484</x>
+        <y>-0.9336643</y>
+        <z>-0.264680326</z>
       </value>
     </DataContainer>
     <DataContainer>
       <key>Direção (Pitch, Yaw, Roll)</key>
       <value xsi:type="Vector3">
-        <x>0.5603934</x>
-        <y>1.04861033</y>
-        <z>1.91732967</z>
+        <x>0.8147869</x>
+        <y>1.24975109</y>
+        <z>1.90986919</z>
       </value>
     </DataContainer>
     <DataContainer>
-      <key>Força</key>
-      <value xsi:type="xsd:float">0.3168613</value>
+      <key>Mão (Estado, Ângulo)</key>
+      <value xsi:type="Vector2">
+        <x>0</x>
+        <y>0.212418616</y>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Polegar</key>
+      <value xsi:type="string">Estendido</value>
     </DataContainer>
   </serializedData>
 </SaveData>

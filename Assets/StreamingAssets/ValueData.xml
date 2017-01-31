@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileName>ValueData</fileName>
+  <serializedTypes>
+    <string>System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</string>
+    <string>UnityEngine.Vector3, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</string>
+  </serializedTypes>
+  <serializedData>
+    <DataContainer>
+      <key>Mão</key>
+      <value xsi:type="string">Mão esquerda</value>
+    </DataContainer>
+    <DataContainer>
+      <key>Estado</key>
+      <value xsi:type="string">Aberta</value>
+    </DataContainer>
+    <DataContainer>
+      <key>Posição (mm)</key>
+      <value xsi:type="Vector3">
+        <x>-30.6306725</x>
+        <y>203.8419</y>
+        <z>33.66093</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Velocidade (mm/s)</key>
+      <value xsi:type="Vector3">
+        <x>-1.23403573</x>
+        <y>1.5091424</y>
+        <z>-1.21831238</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Ângulo (rad)</key>
+      <value xsi:type="Vector3">
+        <x>0.06985674</x>
+        <y>-0.97538954</y>
+        <z>0.2091297</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Direção (Pitch, Yaw, Roll)</key>
+      <value xsi:type="Vector3">
+        <x>-0.176116541</x>
+        <y>0.470730841</y>
+        <z>1.23438358</z>
+      </value>
+    </DataContainer>
+    <DataContainer>
+      <key>Polegar</key>
+      <value xsi:type="string">Estendido</value>
+    </DataContainer>
+    <DataContainer>
+      <key>indicador</key>
+      <value xsi:type="string">Estendido</value>
+    </DataContainer>
+    <DataContainer>
+      <key>medio</key>
+      <value xsi:type="string">Estendido</value>
+    </DataContainer>
+    <DataContainer>
+      <key>anelar</key>
+      <value xsi:type="string">Estendido</value>
+    </DataContainer>
+    <DataContainer>
+      <key>minimo</key>
+      <value xsi:type="string">Estendido</value>
+    </DataContainer>
+  </serializedData>
+</SaveData>
