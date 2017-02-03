@@ -110,6 +110,7 @@
     <Compile Include="Assets\LeapMotion\Scripts\VR\LeapVRTemporalWarping.cs" />
     <Compile Include="Assets\LeapMotion\Scripts\VR\TemporalWarpingStatus.cs" />
     <Compile Include="Assets\LeapMotion\Scripts\VR\VRHeightOffset.cs" />
+    <Compile Include="Assets\Scripts\Dados.cs" />
     <Compile Include="Assets\Scripts\SaveData.cs" />
     <Compile Include="Assets\Scripts\Valores.cs" />
     <None Include="Assets\Plugins\donotdelete.txt" />
@@ -120,8 +121,8 @@
     <None Include="Assets\LeapMotion\Dependencies.txt" />
     <None Include="Assets\LeapMotion\Resources\ThresholdOverlay.shader" />
     <None Include="Assets\LeapMotion\Resources\PassthroughForeground.shader" />
+    <None Include="Assets\StreamingAssets\Dados.xml" />
     <None Include="Assets\LeapMotion\Resources\PassthroughBackground.shader" />
-    <None Include="Assets\StreamingAssets\ValuesData.xml" />
     <None Include="Assets\LeapMotion\Version.txt" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll</HintPath>
